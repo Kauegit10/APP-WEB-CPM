@@ -1,0 +1,7 @@
+{
+  "name": "WEB CPM - Painel Profissional",
+  "description": "Aplicativo oficial de gestão de contas e serviços para Car Parking Multiplayer. Desenvolvido com tecnologia de ponta para oferecer a melhor experiência aos jogadores.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
